@@ -1,0 +1,22 @@
+# Core numerical stack
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+
+# Visualisation
+matplotlib==3.8.4
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.29.4
+notebook==7.2.0
+
+# Testing
+pytest==8.2.2
+
+# Code quality
+black==24.4.2
+flake8==7.1.0
+
+# Optional quant analytics
+statsmodels==0.14.2
