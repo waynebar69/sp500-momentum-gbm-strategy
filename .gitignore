@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.db
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+.env
